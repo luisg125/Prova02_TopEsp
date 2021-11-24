@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "934296342007",
+    "project_id": "prova2topicos",
+    "storage_bucket": "prova2topicos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934296342007:android:c1818e401b08fe499b32f2",
+        "android_client_info": {
+          "package_name": "com.example.prova02"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934296342007-h1vh5ho8iprkr2hlijs5kkavvvt9s3bj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhbvnlnkaqJbj-b1ocuC8-TnwnnVWCjV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934296342007-h1vh5ho8iprkr2hlijs5kkavvvt9s3bj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
